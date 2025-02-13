@@ -78,11 +78,11 @@ global.jadi = 'jadibots'
 global.hutaoJadibts = true
 
 global.ch = {
-ch1: '120363276986902836@newsletter',
-ch2: '120363276986902836@newsletter',
-ch3: '120363276986902836@newsletter',
-ch4: '120363276986902836@newsletter',
-ch5: '120363276986902836@newsletter',
+ch1: '',
+ch2: '',
+ch3: '',
+ch4: '',
+ch5: '1',
 }
 
 //• ↳ ◜𝑭𝑨𝑲𝑬 𝑬𝑺𝑻𝑰𝑳𝑶◞ • 🪩
@@ -99,20 +99,20 @@ global.estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(fa
 global.fgif2 = { key: {participant: `0@s.whatsapp.net`, ...(false ? { remoteJid: "6289643739077-1613049930@g.us" } : {})},message: {"videoMessage": { "title":'GokuBlack-Bot', "h": `Hmm`,'seconds': '99999', 'gifPlayback': 'true', 'caption': `Goku-Black-Bot-MD\n Ivan`, 'jpegThumbnail': logo4 }}}
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.gp4 = '' //Grupo Oficial De Hutao
-global.gp1 = '' //Grupo 
-global.gp2 = '' //Grupo
-global.comunidad1 = '' //Comunidad GokuBlack-Bot
-global.channel = '' //Canal Oficial
-global.yt = 'https://youtube.com/@Ivamods15' //Canal De Youtube
-global.md = 'https://github.com/Eliasivan' //Github Oficial
-global.correo = 'fireb5429@gmail.com'
+global.gp4 = '' 
+global.gp1 = '' 
+global.gp2 = '' 
+global.comunidad1 = ''
+global.channel = '' 
+global.yt = '' 
+global.md = '' 
+global.correo = ''
 global.cn ='';
 
 var ase = new Date(); var hour = ase.getHours(); switch(hour){ case 0: hour = 'Linda Mañana'; break; case 1: hour = 'Linda Mañana'; break; case 2: hour = 'Linda Mañana'; break; case 3: hour = 'Linda Mañana'; break; case 4: hour = 'linda mañana'; break; case 5: hour = 'Linda Mañana'; break; case 6: hour = 'Linda Mañana'; break; case 7: hour = 'Linda Mañana'; break; case 8: hour = 'Linda Mañana'; break; case 9: hour = 'Linda Mañana'; break; case 10: hour = 'Lindo Dia'; break; case 11: hour = 'Lindo Dia'; break; case 12: hour = 'Lindo Dia'; break; case 13: hour = 'Lindo Dia'; break; case 14: hour = 'Linda Tarde'; break; case 15: hour = 'Linda Tarde'; break; case 16: hour = 'Linda Tarde'; break; case 17: hour = 'Linda Tarde'; break; case 18: hour = 'Linda Noche'; break; case 19: hour = 'Linda Noche'; break; case 20: hour = 'Linda Noche'; break; case 21: hour = 'Linda Noche'; break; case 22: hour = 'Linda Noche'; break; case 23: hour = 'Linda Noche'; break;}
 global.saludo = '🍭' + hour;
 
-global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "120363307382381547@newsletter", serverMessageId: 100, newsletterName: namechannel, }, }, }
+global.rcanal = { contextInfo: { isForwarded: true, forwardedNewsletterMessageInfo: { newsletterJid: "", serverMessageId: 100, newsletterName: namechannel, }, }, }
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
 global.d = new Date(new Date + 3600000);
 global.locale = 'es';
