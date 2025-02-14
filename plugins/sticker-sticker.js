@@ -15,7 +15,7 @@ if (!img) return conn.reply(m.chat, `⚠️ *_La conversión ha fallado, intenta
 
 let out
 try {
-stiker = await sticker(imagen, false, global.packsticker, `━━━━━━━━━♾
+stiker = await sticker(img, false, global.packsticker, `━━━━━━━━━♾
 \onyx-Bot\n${m.pushName}\n⇝ ${moment.tz('America/Los_Angeles').format('DD/MM/YY')}\n⇝ ${moment.tz('America/Los_Angeles').format('HH:mm:ss')} \n.\n\nѕτιϲκєя ϐγ: onyx-bot 
 .⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸⎯ܴ⎯̶᳞͇ࠝ⎯⃘̶⎯̸.`)
 } catch (e) {
