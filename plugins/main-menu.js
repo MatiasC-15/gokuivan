@@ -196,7 +196,7 @@ await conn.sendMessage(
       sourceUrl: redes,
       mediaType: 1,
       renderLargerThumbnail: false,
-    },/*
+    },*/
   },
 
   gifPlayback: true, gifAttribution: 0 },
