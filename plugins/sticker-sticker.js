@@ -38,7 +38,7 @@ else return m.reply(`*꒰ᐢ. .ᐢ꒱₊˚⊹ El url es incorrecto*`)
 console.error(e)
 if (!stiker) stiker = e
 } finally {
-if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true, { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: packname, body: `𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞`, mediaType: 2, sourceUrl: redes, thumbnail: icons}}}, { quoted: m })
+if (stiker) conn.sendFile(m.chat, stiker, 'sticker.webp', '',m, true// { contextInfo: { 'forwardingScore': 200, 'isForwarded': false, externalAdReply:{ showAdAttribution: false, title: packname, body: `𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞`, mediaType: 2, sourceUrl: redes, thumbnail: icons}}}, { quoted: m })
 
 else return conn.reply(m.chat, '```ᯓᡣ𐭩 Y la imagen?, recuerda que los videos deben de durar 6 a 8 segundos.𖥔 ݁ ˖```', m, rcanal)
 
