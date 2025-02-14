@@ -187,7 +187,7 @@ await conn.sendMessage(
       newsletterJid: '120363276986902836@newsletter',
       newsletterName: 'ᘜOKᑌ-ᗷᒪᗩᑕK-ᗷOT-ᗰᗪ-ᒪITᗴ',
       serverMessageId: -1,
-    },
+    },/*
     forwardingScore: 999,
     externalAdReply: {
       title: '𝐆𝐨𝐤𝐮-𝐁𝐥𝐚𝐜𝐤-𝐁𝐨𝐭-𝐌𝐃-𝐋𝐢𝐭𝐞',
@@ -196,7 +196,7 @@ await conn.sendMessage(
       sourceUrl: redes,
       mediaType: 1,
       renderLargerThumbnail: false,
-    },
+    },*\
   },
 
   gifPlayback: true, gifAttribution: 0 },
