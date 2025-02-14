@@ -16,9 +16,9 @@ global.owner = [
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['595992667005', '', '', '', '']
+global.mods = ['593979133620', '', '', '', '']
 
-global.suittag = ['595992667005']
+global.suittag = ['593979133620']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
@@ -71,7 +71,7 @@ global.photoSity = [imagen8, imagen1, imagen4, imagen6]
 global.libreria = 'Baileys'
 global.baileys = 'V 6.7.8'
 global.languaje = 'Español'
-global.nameqr = 'GokuBlack-Bot'
+global.nameqr = 'onyx-Bot'
 global.sessions = 'Blacksesion'
 global.jadi = 'jadibots'
 global.hutaoJadibts = true
