@@ -10,10 +10,8 @@ global.botnumber = '' //Ejemplo: +573138954963
 global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
-global.owner = [
-['595992667005', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫 🧑‍💻', true],
-['59169739411', 'Soporte', true],
-['595972157130']
+global.owner = ['593979133620', '𝐂𝐫𝐞𝐚𝐝𝐨𝐫 🧑‍💻', true],
+['595992667005']
 ];
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
@@ -23,18 +21,18 @@ global.suittag = ['595992667005']
 global.prems = []
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packsticker = '𝐆𝐎𝐊𝐔-𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃'
-global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻𝐆𝐎𝐊𝐔𝐁𝐋𝐀𝐂𝐊-𝐁𝐎𝐓-𝐌𝐃'
-global.author = '𝐺𝑂𝐾𝑈-𝐵𝐿𝐴𝐶𝐾-𝐵𝑂𝑇-𝑀𝐷 ´･ᴗ･`'
-global.wm = 'l ꙰ 𝙶𝙾𝙺𝚄-𝙱𝙻𝙰𝙲𝙺-𝙱𝙾𝚃-𝙼𝙳 l ꙰';
-global.titulowm = '𝘗𝘖𝘞𝘌𝘙 𝘉𝘠 𝘐𝘝𝘈𝘕';
-global.titulowm2 = 'GOKᑌ-ᗷᒪᗩᑕK-ᗷOT-ᗰᗪ'
-global.igfg = 'ɢ૦𝗞Ս-𝗕𐐛𝔸𐊢𝗞-𝗕૦𝚃-ᎷＤ '
-global.botname = '𝐺𝑂𝐾𝑈-𝐵𝐿𝐴𝐶𝐾-𝐵𝑂𝑇-𝑀𝐷 💥'
-global.dev = '𝗚𝗢𝗞𝗨𝗕𝗟𝗔𝗖𝗞 : 𝗕𝗬 𝗜𝗩𝗔𝗡 💫'
-global.textbot = '𝗚𝗢𝗞𝗨𝗕𝗟𝗔𝗖𝗞 𝗣𝗢𝗪𝗘𝗥 𝗕𝗬 𝗜𝗩𝗔𝗡 🌱'
-global.gt = '𝗚𝗢𝗞𝗨𝗕𝗟𝗔𝗖𝗞';
-global.namechannel = '𝗚𝗢𝗞𝗨-𝗕𝗟𝗔𝗖𝗞-𝗕𝗢𝗧-𝗠𝗗 🗻'
+global.packsticker = 'onyx bot'
+global.packname = '󠁖󠁖󠁖󠁖󠁖󠁖󠁻󠁻onyx bot'
+global.author = ' onyx bot´･ᴗ･`'
+global.wm = 'l ꙰ Onyx Bot l ꙰';
+global.titulowm = 'Onyx-Bot';
+global.titulowm2 = 'Onyx-Bot'
+global.igfg = 'onyx-Bot'
+global.botname = 'Onyx-Bot💥'
+global.dev = 'Onyx-Bot'
+global.textbot = 'Onyx-Bot : El bot mas good de Fre'
+global.gt = 'onyx-Bot';
+global.namechannel = 'onyx-bot 🗻'
 global.vs = 'V2'
 global.vsJB = '5.0'
 
